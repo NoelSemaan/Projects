@@ -29,3 +29,8 @@ counter = counter * 1
 counter *=1
 counter = counter / 1
 counter /=1
+
+#example
+print(x+y)#7
+
+#Try it out yourself
