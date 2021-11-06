@@ -11,3 +11,4 @@ a <= b # is a less than or equal to b the result is True
 
 #example
 print(a>=b) #False
+#Try it out yourself
